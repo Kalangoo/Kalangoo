@@ -1,2 +1,2 @@
 ... Em andamento...
-![firewatch-video-game-art-minimalism-simple-hd-wallpaper-preview](https://user-images.githubusercontent.com/86731134/162000885-d2c0e44e-8e90-4932-8b82-05f3832438b2.jpg)
+![Novo Projeto](https://user-images.githubusercontent.com/86731134/162001356-6f8dadd9-9c75-4dbe-add9-5f66a08f3264.jpg)
