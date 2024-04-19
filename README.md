@@ -1,7 +1,7 @@
 ###
 ###
 
-<h2 align="center">Hi 👋! My name is Kalani and I'm a Student, from Brazil</h2>
+<h2 align="center">Hi 👋! My name is Kalani and I'm a Student, from Brazil 🌴 </h2>
 
 ###
 ###
@@ -10,14 +10,14 @@
 
 ###
 
-* 🔭 Looking for a job
+* 🔭 Looking for a job application
 * 📚 Faculty of systems analysis and development
 * 💀 Ex-Military</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalangoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -70,6 +70,6 @@
 ###
 
 
-<img src="https://user-images.githubusercontent.com/86731134/162002881-f733baf6-c8e6-498c-bed9-fec52b4a6941.jpg" />
+<img opacity="45" width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/174bf0dd-5faf-4113-901d-a83e5b794d93/dfn2ti0-4eb40c90-1525-432d-916e-07a67b23dff8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3NGJmMGRkLTVmYWYtNDExMy05MDFkLWE4M2U1Yjc5NGQ5M1wvZGZuMnRpMC00ZWI0MGM5MC0xNTI1LTQzMmQtOTE2ZS0wN2E2N2IyM2RmZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KBcOA7WpmwIpuO8MagLS4FRdBRPAgvZ8_NYPFRHMdRE" />
 
 ###
